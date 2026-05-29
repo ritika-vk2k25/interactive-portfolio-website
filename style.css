@@ -193,6 +193,7 @@ h4 {
 .project-link-img {
   border: 5px solid rgb(99, 21, 103);
   border-radius: 8px;
+  filter: drop-shadow(10px 10px 20px);
   transition: 0.3s;
 }
 
